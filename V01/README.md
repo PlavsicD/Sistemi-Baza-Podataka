@@ -37,7 +37,7 @@ Polja:
     • INCOME - prihod nosioca
     • HAS_CHILDREN - da li nosliac ima decu, binarna vrednost (0 - nema, 1- ima)
     • LENGTH_OF_RESIDENCE - procenjeno trajanje stanovanja nosioca u prebivalištu
-    • MARITAL_STATUS - bračni status nosioca, binarna vrednost (0 - nije venčan, 1 - venčan)
+    • MARITAL_STATUS - bračni status nosioca ("Single" - nije venčan, "Married" - venčan)
     • HOME_MARKET_VALUE - procenjena vrednost boravišta nosioca
     • HOME_OWNER - da li je nosilac vlasnik svog boravišta, binarna vrednost (0 - nije, 1 - jeste)
     • COLLEGE_DEGREE - da li je nosilac visoko obrazovan, binarna vrednost (0 - nije, 1 - jeste)
