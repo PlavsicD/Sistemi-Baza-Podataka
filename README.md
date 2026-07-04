@@ -19,11 +19,11 @@ Skup podataka koji je predmet analize ovog projekta jeste "Auto Insurance churn 
 
 Početna shema
 
-Početna shema baze podataka se nalazi u direktorijumu [V01](V01/README.md), gde se nalazi opis kolekcija u projektu i njihova polja.
+Početna shema baze podataka se nalazi u direktorijumu [V01](V01), gde se nalazi opis kolekcija u projektu i njihova polja.
 
 Restruktuirana shema
 
-Restruktuirana shema baze podataka se nalazi u direktorijumu [V02](V02/README.md).
+Restruktuirana shema baze podataka se nalazi u direktorijumu [V02](V02).
 
 Upiti
 
