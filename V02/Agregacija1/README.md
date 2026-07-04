@@ -10,4 +10,4 @@ Informacije o izvršavanju agregacije #1:
 
 <img width="1145" height="451" alt="Agr01v2explain" src="https://github.com/user-attachments/assets/f5fbe083-eadc-4ee3-8840-0bf2cd442770" />
 
-Primeti se da je, samo uvođenjem indeksa u bazu podataka, vreme izvršavanja agregacije #1 znatno smanjeno, te je omogućeno korišćenje originalnih kolekcija umesto njihovih podskupova.
+Primećuje se da je, samo uvođenjem indeksa u bazu podataka, vreme izvršavanja agregacije #1 znatno smanjeno, te je omogućeno korišćenje originalnih kolekcija umesto njihovih podskupova.
